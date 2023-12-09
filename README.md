@@ -4,9 +4,9 @@
 
 I am a web developer adept in front-end  technologies. Passionate about crafting user-centric, innovative websites. Skilled in HTML, CSS, JavaScript, React.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / FIREBASE / MONGODB
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,firebase)](https://skillicons.dev)
 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web development 
