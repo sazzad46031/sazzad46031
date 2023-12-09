@@ -6,10 +6,12 @@ I am a web developer adept in front-end technologies. Passionate about crafting 
 
 Skills: REACT / JS / HTML / CSS / FIREBASE / MONGODB
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,firebase,mongodb)](https://skillicons.dev)
 
-- 🔭 I’m currently working on this page. 
+I work with html, css, javascript, react, nodejs, firebase, mongodb
+
 - 🌱 I’m currently learning Next.js 
+- 💬 Ask me about Web development 
 - 📫 How to reach me: sazzadmgbs@gmail.com 
 - ⚡ Fun fact: I am funny 
 
@@ -23,6 +25,8 @@ Skills: REACT / JS / HTML / CSS / FIREBASE / MONGODB
 ![GitHub metrics](https://metrics.lecoq.io/sazzad46031)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sazzad46031)  
+
+
 
 
 
