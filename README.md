@@ -2,7 +2,7 @@
 #### I am a web developer
 ![I am a web developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/409174332_6888319314569450_8881877257192745977_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHQzJHaBKkL2FcCy3GVh5aSZPmUhMiqONdk-ZSEyKo416-WPe_qsGdH_y2mGKh5e6VXxVz-TX3sSpa9fjuXL4c5&_nc_ohc=TPasMu9r_j0AX-a-_Fh&_nc_ht=scontent.fdac99-1.fna&oh=00_AfAQb6PXYUS7ucBOtNBIXD2-tZle2g-VlEq1X3r3wTYw6w&oe=65789394)
 
-I am a web developer adept in front-end technologies. Passionate about crafting user-centric, innovative websites. Skilled in HTML, CSS, JavaScript, React.
+I am a web developer adept in front-end technologies. Passionate about crafting user-centric, innovative websites. Skilled in HTML, CSS, JavaScript, React.I want to become a famous full stack web developer
 
 # Technologies I know
 
