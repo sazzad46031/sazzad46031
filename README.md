@@ -6,6 +6,8 @@ I am a web developer adept in front-end  technologies. Passionate about crafting
 
 Skills: REACT / JS / HTML / CSS
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,mongodb,firebase)](https://skillicons.dev)
+
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: sazzadmgbs@gmail.com 
