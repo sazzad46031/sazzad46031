@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / FIREBASE / MONGODB
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,firebase,mongodb)](https://skillicons.dev)
 
-I work with html, css, javascript, react, nodejs, firebase, mongodb
+I work with html, css, javascript, react, nodejs, mongodb, firebase
 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web development 
@@ -22,9 +22,9 @@ I work with html, css, javascript, react, nodejs, firebase, mongodb
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad46031&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/sazzad46031)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sazzad46031)  
+
+
 
 
 
